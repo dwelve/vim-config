@@ -7,3 +7,27 @@
 [submodule "bundle/VST"]
 	path = bundle/VST
 	url = git://github.com/vim-scripts/VST.git
+[submodule "bundle/vim-markdown"]
+	path = bundle/vim-markdown
+	url = git://github.com/plasticboy/vim-markdown.git
+[submodule "bundle/CSApprox"]
+	path = bundle/CSApprox
+	url = git://github.com/vim-scripts/CSApprox.git
+[submodule "bundle/vim-python-pep8-indent"]
+	path = bundle/vim-python-pep8-indent
+	url = https://github.com/hynek/vim-python-pep8-indent.git
+[submodule "bundle/python.vim"]
+	path = bundle/python.vim
+	url = git://github.com/sorin-ionescu/python.vim.git
+[submodule "bundle/pydoc.vim"]
+	path = bundle/pydoc.vim
+	url = git://github.com/fs111/pydoc.vim.git
+[submodule "bundle/python-mode"]
+	path = bundle/python-mode
+	url = git://github.com/klen/python-mode.git
+[submodule "bundle/vim-powerline"]
+	path = bundle/vim-powerline
+	url = git://github.com/Lokaltog/vim-powerline.git
+[submodule "bundle/vim-colors-solarized"]
+	path = bundle/vim-colors-solarized
+	url = git://github.com/altercation/vim-colors-solarized.git
